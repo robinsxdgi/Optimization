@@ -1,0 +1,10 @@
+Open all the “***.m” files and run them in order, then you will see the results.
+
+(I made displayed comment for each result).
+
+
+If you want to modify the cost of reloading station, just change the number in the corresponding parameter —- “Cr_case1” to 1,000,000 or 500,000 whatever you need.
+
+Please let me know if you have any questions. 
+
+dingxiang2015@u.northwestern.edu
